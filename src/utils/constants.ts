@@ -4,6 +4,7 @@ export default {
 
   user: {
     lookup: "/users",
-    
-  }
+    pb: "/personal-bests",
+  },
+  profile: "/profile"
 }
